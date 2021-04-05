@@ -1,15 +1,13 @@
 ### Hi there 👋
 
-<!--
-**abrigoni/abrigoni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
 [<img src="https://api.speedtyper.dev/users/abrigoni/badges/averagewpm" alt="SpeedTyper.dev avg wpm" height="25">](https://www.speedtyper.dev/profile/abrigoni) 
 [<img src="https://api.speedtyper.dev/users/abrigoni/badges/topwpm" alt="SpeedTyper.dev top wpm" height="25">](https://www.speedtyper.dev/profile/abrigoni) 
 [<img src="https://api.speedtyper.dev/users/abrigoni/badges/gamecount" alt="SpeedTyper.dev games" height="25">](https://www.speedtyper.dev/profile/abrigoni)
 
+<!--
+**abrigoni/abrigoni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+**Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
