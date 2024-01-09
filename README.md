@@ -17,7 +17,7 @@
 
 <a href="https://www.brianrigoni.dev/">
   
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abrigoni&hide=html,lua,jupyter%20notebook&hide_border=true&layout=compact&langs_count=3&text_color=fff&theme=dark" />
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abrigoni&hide=html,lua,jupyter%20notebook&rust&cpp&hide_border=true&layout=compact&langs_count=3&text_color=fff&theme=dark" />
 </a>
 
 <!--
